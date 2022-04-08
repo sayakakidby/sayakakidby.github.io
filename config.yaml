@@ -11,11 +11,11 @@ module:
     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: "https://twitter.com/sayakidby"
+  # github: "#"
+  # instagram: "#"
+  linkedin: "https://www.linkedin.com/in/sayaka-kidby-8566301aa/?originalSubdomain=uk"
+  # dribbble: "#"
+  # youtube: "#"
 taxonomies:
   author: authors
